@@ -12,16 +12,19 @@ Sleep as a Protector: Quality sleep showed a strong negative correlation (0.83) 
 Demographics: Younger users exhibit higher volatility in social interactions, which significantly impacts their mental state classification.
 
 🤖 Machine Learning Modeling
+
 We compared three advanced tree-based models to achieve optimal classification:
 Random Forest: Served as the baseline with exceptional accuracy (1.0), identifying screen time and physical activity as top features.
 LightGBM: Optimized for high-speed training and efficiency.
 CatBoost: Delivered the most robust results for categorical features (Platform, Gender), achieving a Macro F1-score of 0.984.
 
 🛠️ Technical Implementation
+
 Preprocessing: Data cleaning, Label Encoding for targets, and One-Hot Encoding for categorical variables.
 Interactive Simulator: A "What-If" tool was developed to allow real-time inference, where users can input habits and receive an immediate mental state prediction.
 
 🚀 Conclusion
+
 The study concludes that while social media usage is a major stressor, lifestyle factors specifically sleep and exercise are the most effective tools for maintaining mental resilience in the digital age.
 1.Digital Biomarkers as Predictive Tools: The research confirms that a small set of quantitative metrics, specifically Stress Level and Daily Screen Time, can reliably predict mental resilience.
 
