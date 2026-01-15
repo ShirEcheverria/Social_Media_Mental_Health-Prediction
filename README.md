@@ -1,4 +1,11 @@
-# Social_Media_Mental_Health-Prediction
+# Social_Media_Mental_Health-Prediction #
+
+<img width="493" height="493" alt="image" src="https://github.com/user-attachments/assets/49adb3e2-2e4a-400c-902a-c559bd42284c" />
+
+
+
+
+
 
 📋 Overview
 
