@@ -4,7 +4,7 @@
 This project investigates the impact of digital habits on mental well-being. Using a dataset of 5,000 observations, we developed a machine learning pipeline to classify users' mental states into three categories: Healthy, At Risk, or Stressed. The goal is to identify "Digital Biomarkers" that can provide early warnings for mental distress.
 Mental Health Prediction via Social Media Patterns
 
-📊 Key Insights (EDA)
+#📊 Key Insights (EDA)#
 The Screen-Stress Link: A high positive correlation (0.84) was identified between daily screen time and stress levels.
 Sleep as a Protector: Quality sleep showed a strong negative correlation (0.83) with anxiety, acting as a crucial "mitigating factor" even against high digital usage.
 
